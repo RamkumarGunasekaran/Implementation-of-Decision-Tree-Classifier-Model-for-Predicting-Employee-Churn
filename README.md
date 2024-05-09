@@ -54,6 +54,7 @@ x.head():
 Accuracy Value:
 
 ![323628110-0a43bb55-252e-4bbf-be71-810c6cd9f59e](https://github.com/RamkumarGunasekaran/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/144870820/df662c76-a5f9-49c5-a541-ce7d4a3125f1)
+
 Data Prediction:
 ![323628218-5cd36afc-05c0-4144-bbd6-5434676f8b1a](https://github.com/RamkumarGunasekaran/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/144870820/801f66d9-1a91-436b-883c-4618b085f9f3)
 
