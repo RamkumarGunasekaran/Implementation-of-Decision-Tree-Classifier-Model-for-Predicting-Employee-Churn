@@ -19,7 +19,6 @@ RegisterNumber:  212223220084
 */
 ```
 ```
-``
 import pandas as pd
 data=pd.read_csv("/content/Employee.csv")
 data.head()
@@ -48,6 +47,15 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ## Output:
 Data.head()
 ![323627311-c4c54e86-9348-41be-9e16-c13bf0ce29dc](https://github.com/RamkumarGunasekaran/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/144870820/69024fb4-7594-498f-8a62-13bbd6c41317)
+Data.head()for salary:
+![323627788-50b3e487-9e5a-4197-8dae-b219c75f867d](https://github.com/RamkumarGunasekaran/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/144870820/7575d74b-b898-4177-8058-adc0071c992a)
+x.head():
+![323627950-0dd44e4f-3443-4107-8b4c-f18cc2f00ed3](https://github.com/RamkumarGunasekaran/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/144870820/4d1d8600-df07-4c59-ab54-68b15332005d)
+Accuracy Value:
+![323628110-0a43bb55-252e-4bbf-be71-810c6cd9f59e](https://github.com/RamkumarGunasekaran/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/144870820/df662c76-a5f9-49c5-a541-ce7d4a3125f1)
+Data Prediction:
+![323628218-5cd36afc-05c0-4144-bbd6-5434676f8b1a](https://github.com/RamkumarGunasekaran/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/144870820/801f66d9-1a91-436b-883c-4618b085f9f3)
+
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
